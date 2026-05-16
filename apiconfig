@@ -1,5 +1,5 @@
 {
-"web": "https://odcovid.com?isApp=true&isLaunchApp=true",
+  "web": "https://play.odin102.com?isApp=true&isLaunchApp=true",
   "web2": "",
-"enable": true
+  "enable": true
 }
